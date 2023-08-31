@@ -15,4 +15,8 @@ Ninoska Contreras
   <img src="https://skillicons.dev/icons?i=html"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://skillicons.dev/icons?i=css"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git"/>
   </div>
