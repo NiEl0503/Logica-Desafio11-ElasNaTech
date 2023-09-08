@@ -1,6 +1,6 @@
 # Logica-Desafio11-ElasNaTech 👩‍💻 
 
-A essência central deste desafio era fortalecer a nossa capacidade lógica. O objetivo era construir um sistema interativo que solicitasse ao usuário um número que atendesse a três condições vitais: ser positivo, par e menor que 100. Entre as principais ferramentas utilizadas nesta tarefa, o **parseInt** se destacou como essencial. Usando-o, consegui transformar a entrada do usuário em um valor numérico acionável, desempenhando assim um papel crítico na criação e execução bem-sucedida do desafio.
+A essência central deste desafio era fortalecer a nossa capacidade lógica. O objetivo era construir um sistema interativo que solicitasse ao usuário um número que atendesse a três condições vitais: ser positivo, par e menor que 100. Entre as principais funções javascript utilizadas nesta tarefa, o **parseInt** se destacou como essencial. Usando-o, consegui transformar a entrada do usuário em um valor numérico acionável, desempenhando assim um papel crítico na criação e execução bem-sucedida do desafio.
 
  ## Desenvolvedora
 
